@@ -1,0 +1,1117 @@
+{
+  "shortName": "NutsCountry",
+  "longName": "nuts-country",
+  "codes": [
+    {
+      "code": "ALB",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Albania"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Albania"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Albanien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Albania"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Albania"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Albanien"
+        }
+      ]
+    },
+    {
+      "code": "AUT",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "It\u00E4valta"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Austria"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "\u00D6sterrike"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "It\u00E4valta"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Austria"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "\u00D6sterrike"
+        }
+      ]
+    },
+    {
+      "code": "BEL",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Belgia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Belgium"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Belgien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Belgia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Belgium"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Belgien"
+        }
+      ]
+    },
+    {
+      "code": "BGR",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Bulgaria"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Bulgaria"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Bulgarien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Bulgaria"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Bulgaria"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Bulgarien"
+        }
+      ]
+    },
+    {
+      "code": "CHE",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Sveitsi"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Switzerland"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Schweiz"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Sveitsi"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Switzerland"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Schweiz"
+        }
+      ]
+    },
+    {
+      "code": "CYP",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Kypros"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Cyprus"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Cypern"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Kypros"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Cyprus"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Cypern"
+        }
+      ]
+    },
+    {
+      "code": "CZE",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "T\u0161ekki"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Czechia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Tjeckien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "T\u0161ekki"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Czechia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Tjeckien"
+        }
+      ]
+    },
+    {
+      "code": "DEU",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Saksa"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Germany"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Tyskland"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Saksa"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Germany"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Tyskland"
+        }
+      ]
+    },
+    {
+      "code": "DNK",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Tanska"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Denmark"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Danmark"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Tanska"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Denmark"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Danmark"
+        }
+      ]
+    },
+    {
+      "code": "ESP",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Espanja"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Spain"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Spanien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Espanja"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Spain"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Spanien"
+        }
+      ]
+    },
+    {
+      "code": "EST",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Viro"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Estonia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Estland"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Viro"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Estonia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Estland"
+        }
+      ]
+    },
+    {
+      "code": "FIN",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Suomi"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Finland"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Finland"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Suomi"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Finland"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Finland"
+        }
+      ]
+    },
+    {
+      "code": "FRA",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Ranska"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "France"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Frankrike"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Ranska"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "France"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Frankrike"
+        }
+      ]
+    },
+    {
+      "code": "GBR",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Yhdistynyt kuningaskunta"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "United Kingdom"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "F\u00F6renade kungariket"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Yhdistynyt kuningaskunta"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "United Kingdom"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "F\u00F6renade kungariket"
+        }
+      ]
+    },
+    {
+      "code": "GRC",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Kreikka"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Greece"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Grekland"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Kreikka"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Greece"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Grekland"
+        }
+      ]
+    },
+    {
+      "code": "HRV",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Kroatia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Croatia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Kroatien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Kroatia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Croatia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Kroatien"
+        }
+      ]
+    },
+    {
+      "code": "HUN",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Unkari"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Hungary"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Ungern"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Unkari"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Hungary"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Ungern"
+        }
+      ]
+    },
+    {
+      "code": "IRL",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Irlanti"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Ireland"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Irland"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Irlanti"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Ireland"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Irland"
+        }
+      ]
+    },
+    {
+      "code": "ISL",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Islanti"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Iceland"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Island"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Islanti"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Iceland"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Island"
+        }
+      ]
+    },
+    {
+      "code": "ITA",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Italia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Italy"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Italien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Italia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Italy"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Italien"
+        }
+      ]
+    },
+    {
+      "code": "LIE",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Liechtenstein"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Liechtenstein"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Liechtenstein"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Liechtenstein"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Liechtenstein"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Liechtenstein"
+        }
+      ]
+    },
+    {
+      "code": "LTU",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Liettua"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Lithuania"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Litauen"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Liettua"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Lithuania"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Litauen"
+        }
+      ]
+    },
+    {
+      "code": "LUX",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Luxemburg"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Luxembourg"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Luxemburg"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Luxemburg"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Luxembourg"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Luxemburg"
+        }
+      ]
+    },
+    {
+      "code": "LVA",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Latvia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Latvia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Lettland"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Latvia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Latvia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Lettland"
+        }
+      ]
+    },
+    {
+      "code": "MKD",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Pohjois-Makedonia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "North Macedonia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Nordmakedonien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Pohjois-Makedonia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "North Macedonia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Nordmakedonien"
+        }
+      ]
+    },
+    {
+      "code": "MLT",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Malta"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Malta"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Malta"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Malta"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Malta"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Malta"
+        }
+      ]
+    },
+    {
+      "code": "MNE",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Montenegro"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Montenegro"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Montenegro"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Montenegro"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Montenegro"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Montenegro"
+        }
+      ]
+    },
+    {
+      "code": "NLD",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Alankomaat"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Netherlands"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Nederl\u00E4nderna"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Alankomaat"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Netherlands"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Nederl\u00E4nderna"
+        }
+      ]
+    },
+    {
+      "code": "NOR",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Norja"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Norway"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Norge"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Norja"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Norway"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Norge"
+        }
+      ]
+    },
+    {
+      "code": "POL",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Puola"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Poland"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Polen"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Puola"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Poland"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Polen"
+        }
+      ]
+    },
+    {
+      "code": "PRT",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Portugali"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Portugal"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Portugal"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Portugali"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Portugal"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Portugal"
+        }
+      ]
+    },
+    {
+      "code": "ROU",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Romania"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Romania"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Rum\u00E4nien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Romania"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Romania"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Rum\u00E4nien"
+        }
+      ]
+    },
+    {
+      "code": "SRB",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Serbia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Serbia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Serbien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Serbia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Serbia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Serbien"
+        }
+      ]
+    },
+    {
+      "code": "SVK",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Slovakia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Slovakia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Slovakien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Slovakia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Slovakia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Slovakien"
+        }
+      ]
+    },
+    {
+      "code": "SVN",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Slovenia"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Slovenia"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Slovenien"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Slovenia"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Slovenia"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Slovenien"
+        }
+      ]
+    },
+    {
+      "code": "SWE",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Ruotsi"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "Sweden"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Sverige"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Ruotsi"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "Sweden"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Sverige"
+        }
+      ]
+    },
+    {
+      "code": "TUR",
+      "publicOnly": false,
+      "name": [
+        {
+          "langVersion": "fin_label_official",
+          "value": "Turkki"
+        },
+        {
+          "langVersion": "eng_label_official",
+          "value": "T\u00FCrkiye"
+        },
+        {
+          "langVersion": "swe_label_official",
+          "value": "Turkiet"
+        },
+        {
+          "langVersion": "fin_label",
+          "value": "Turkki"
+        },
+        {
+          "langVersion": "eng_label",
+          "value": "T\u00FCrkiye"
+        },
+        {
+          "langVersion": "swe_label",
+          "value": "Turkiet"
+        }
+      ]
+    }
+  ],
+  "version": "1.7.0"
+}
