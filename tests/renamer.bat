@@ -2,8 +2,8 @@
 PUSHD .
 FOR /R %%d IN (.) DO (
 cd "%%d"
-IF EXIST *.ts (
-REN *.ts *.spec.js
+IF EXIST *.js (
+REN *.js *.spec.js
 )
 )
 POPD
